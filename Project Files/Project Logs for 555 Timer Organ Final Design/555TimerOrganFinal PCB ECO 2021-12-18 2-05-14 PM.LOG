@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=TP_VCC-1
+Change Component Designator: OldDesignator=SPK1 NewDesignator=P2
+Added Pin To Net: NetName=VCC Pin=TP_VCC-1
+Added Member To Class: ClassName=555TimerOrganFinal Member=Component SW6
