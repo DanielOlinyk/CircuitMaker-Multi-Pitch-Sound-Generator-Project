@@ -1,2 +1,2 @@
 # CircuitMaker-555-Timer-Based-Mini-Organ-Project
-Small scale design project of a PCB that uses a power supply, a 555 timer IC, a 4 bit counter IC, and a 3 to 8 decoder driver IC to control an LED sequencing pattern
+Small scale design project of a PCB that uses a 555 Timer IC, a 5V LDO Regulator, and a TSW-102-22-L-S-RA connection port to control various different sound pitches of a plug in speaker module. 
